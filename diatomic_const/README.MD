@@ -1,4 +1,4 @@
-This is a short instructions regarding the written code for the
+This is a short instruction regarding the written code for the
 masters project, 2017-2018.
 
 
