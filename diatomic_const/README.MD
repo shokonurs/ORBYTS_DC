@@ -33,6 +33,7 @@ i)  The app contains standart django main files: models, views, urls.
     FUNCTION 7. Table to compare which constans and states were imported.
 
 ii) The standart filter app template folder contains 6 html files.
+    
     Each file is linked with a view function.
     a_molecules_list.html        - function 1
     d_moelcules_statesTable.html - function 2
@@ -46,6 +47,7 @@ ii) The standart filter app template folder contains 6 html files.
     Without this filter, the nested dictionary lookup does not work.
 
 iii) Apart from the main filter app, there are some additional files in the project root folder.
+    
     a) data.npy
     This file contains the data,which were proviede in csv format, from Huber-Herzberg database. 
     The file contains one nested dictionary, where key: molecule_name and value: states and constants.
